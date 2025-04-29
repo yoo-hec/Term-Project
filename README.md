@@ -19,7 +19,7 @@ This project is a static HTML/CSS website for Ctrl+Fit, a premium fitness wear b
 7. Performance Shorts (Gym Shorts)
 8. Quick-Dry Towel (Gym Towel)
 9. Weather Shield Jacket (Windbreaker)
-10. Motivational Keychain
+10. Logo Keychain
 11. Ultimate Duffel (Gym Bag)
 12. Flex Yoga Pants
 
