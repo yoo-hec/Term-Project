@@ -1,15 +1,15 @@
 # Term-Project
 
-# Ctrl+Fit - Premium Fitness Wear Website 💪🏃‍♂️💨
+# Ctrl+Fit - Premium Fitness Wear Website 
 
-## Project Overview 📝🗣
+## Project Overview 
 This project is a static HTML/CSS website for Ctrl+Fit, a premium fitness wear brand. The website showcases 12 different fitness products and provides information about the brand, its products, and contact information. This project was created as part of the Term Project (CSS/HTML Website) assignment.
 
-## Team Members 🤓💯
+## Team Members 
 - John Martinez
 - Hector Ortega
 
-## Product List 👕🩳
+## Product List 
 1. Performance Tee (Short Sleeve)
 2. Technical Long Sleeve
 3. Premium Sweatshirt
